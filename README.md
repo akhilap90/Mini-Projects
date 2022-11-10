@@ -1,2 +1,2 @@
 # Mini-Projects
-Use only for personal use
+Personal use only
